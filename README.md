@@ -1,2 +1,3 @@
 # pihole-blocklist
-Personal blocklists for various purposes.
+
+Personal blocklists for various purposes made for use on the pihole.

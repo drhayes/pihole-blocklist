@@ -1,0 +1,14 @@
+# Name: Pihole Blocklist
+# URL: https://github.com/drhayes/pihole-blocklist
+# Last update: 03 March, 2021
+
+dis.gd
+discord.co
+discord.com
+discord.gg
+discordapp.com
+www.dis.gd
+www.discord.co
+www.discord.com
+www.discord.gg
+www.discordapp.com
